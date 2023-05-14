@@ -25,6 +25,6 @@ function goalManCity() {
 }
 
 function results() {
-  let resstr = countAR + "/" + goalA + " vs. " + countMa + "/" + goalM + ",";
+  let resstr = countAr + "/" + goalA + " vs. " + countMa + "/" + goalM + ",";
   results.textContent += resstr;
 }
