@@ -43,7 +43,7 @@ button {
   background: darkgreen;
 }
 
-p {
+#results {
   font-size: 30px;
   font-weight: bold;
   color: rgb(176, 139, 117);
