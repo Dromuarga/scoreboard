@@ -16,11 +16,11 @@ function incrementM() {
   countM.textContent = count;
 }
 
-function goalA() {
+function goalArsenal() {
   goalA += 1;
 }
 
-function goalM() {
+function goalManCity() {
   goalM += 1;
 }
 
