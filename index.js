@@ -8,12 +8,12 @@ let goalM = 0;
 
 function incrementA() {
   countAr += 1;
-  countA.textContent = count;
+  countA.textContent = countAr;
 }
 
 function incrementM() {
   countMa += 1;
-  countM.textContent = count;
+  countM.textContent = countMa;
 }
 
 function goalArsenal() {
